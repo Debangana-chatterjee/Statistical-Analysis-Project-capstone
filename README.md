@@ -1,4 +1,4 @@
-# Statistical-Analysis-Project-capstone
+# Statistical-Analysis-Project
 
 Please use the Data.xlsx file to investigate the effect of independent variables (price per square foot, number of bathrooms, and floor size) on the price of a high-floor, spacious 2-bedroom house with a spectacular view, available at an affordable price. The null hypothesis (H0) states that there is no significant effect of the independent variables on the price. The alternative hypothesis (H1) suggests that there is a significant effect of the independent variables on the price. The objective is to test this hypothesis using the provided data in the "Data" Excel file.
  
